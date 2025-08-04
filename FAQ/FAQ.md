@@ -5,6 +5,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 ## [READ THESE FIRST: Official Resources made by Valve / Steam](./Markdown/Official_Resources.md)
 
+## [Definitions - Various Steam Deck Related Terms Explained](./Markdown/Definitions.md)
+
 ## Is The Steam Deck A Good Choice For You?
 
 ### Pricing
