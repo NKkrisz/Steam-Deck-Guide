@@ -2,54 +2,61 @@
 
 ## Basics
 
-### Valve
+### [Valve](https://en.wikipedia.org/wiki/Valve_Corporation)
 
-### Steam
+### [Steam](https://en.wikipedia.org/wiki/Steam_(service))
 
-### Steam Deck
+### [Steam Deck](https://en.wikipedia.org/wiki/Steam_Deck)
 
-### Linux
+## [Linux](https://en.wikipedia.org/wiki/Linux)
 
-#### Wine
+#### [Wine](https://en.wikipedia.org/wiki/Wine_(software))
 
-#### Proton
+#### [Proton](https://en.wikipedia.org/wiki/Proton_(software))
 
-### SteamOS
+## [SteamOS](https://en.wikipedia.org/wiki/SteamOS)
 
-#### QAM (Quick Access Menu)
+### Gaming Mode
+
+### Desktop Mode
+
+### QAM (Quick Access Menu)
+- Right menu in ```Gaming Mode``` which contains various device or game information and settings
+    - Accessed by the following button(s):
+        - Steam Deck: ```(...)``` - located on the front bottom right side
+        - Xbox Controllers: ```Xbox + A```
+        - Playstation Controllers: ```PS+X```
+        - Nintendo Controllers: ```Home+B```
+        - Keyboard: ```CTRL+2```
+
+### Steam Input
 
 ## Hardware
 
-### USB (Universal Serial Bus)
+### [USB (Universal Serial Bus)](https://en.wikipedia.org/wiki/USB)
 
-### PD (Power Delivery)
+### [USB PD (USB Power Delivery)](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery)
 
-### Micro SD Card
+### [(Micro) SD Card](https://en.wikipedia.org/wiki/SD_card)
 
-### SSD (Solid State Drive)
+### [SSD (Solid State Drive)](https://en.wikipedia.org/wiki/Solid-state_drive)
 
-### CPU
+### [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)
 
-### GPU
+### [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
-### Battery
-
-#### Battery Life
-
-#### Wh
-
-#### mAh
+### [Battery](https://en.wikipedia.org/wiki/Electric_battery)
 
 ## Gaming
 
-### FPS
+### [FPS](https://en.wikipedia.org/wiki/Frame_rate)
 
-### Frame Generation
+### [Frame Generation](https://en.wikipedia.org/wiki/Motion_interpolation#Gaming)
 
-### Upscaling
+### [Image / Upscaling](https://en.wikipedia.org/wiki/Image_scaling)
 
-### FSR
+### [FSR](https://en.wikipedia.org/wiki/GPUOpen#FidelityFX_Super_Resolution)
 
-### DLSS
+### [DLSS](https://en.wikipedia.org/wiki/Deep_Learning_Super_Sampling)
 
-### XeSS
+### [XeSS](https://en.wikipedia.org/wiki/Intel_Arc#Intel_XeSS)
