@@ -121,7 +121,7 @@
 
 ### Dual Stage Triggers
 - [3D printed parts + tactile switches](https://www.thingiverse.com/thing:6210987)
-    - This model is only known to work with LCD Decks
+    - The original model only works with LCD Decks but there is a [remix available for OLEDs here](https://www.printables.com/model/1376881-dual-stage-trigger-mod-oled-version)
 - Similar Feeling To Steam Controller ("click" feedback on full press)
 - Shouldn't interfere with trigger input values
 - [Testing video (W.I.P - Uses modified model)](https://www.youtube.com/watch?v=8woKzJrXp88)
