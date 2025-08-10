@@ -16,7 +16,7 @@
 
 ## [SteamOS](https://en.wikipedia.org/wiki/SteamOS)
 
-### Gaming Mode
+### Gaming / Big Picture Mode
 
 ### Desktop Mode
 
@@ -29,23 +29,67 @@
         - Nintendo Controllers: ```Home + B```
         - Keyboard: ```CTRL + 2```
 
-### Steam Input
+### Steam Menu
 
 ## Hardware
 
-### [USB (Universal Serial Bus)](https://en.wikipedia.org/wiki/USB)
+### Components
 
-### [USB PD (USB Power Delivery)](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery)
+#### [USB (Universal Serial Bus)](https://en.wikipedia.org/wiki/USB)
 
-### [(Micro) SD Card](https://en.wikipedia.org/wiki/SD_card)
+#### [USB PD (USB Power Delivery)](https://en.wikipedia.org/wiki/USB_hardware#USB_Power_Delivery)
 
-### [SSD (Solid State Drive)](https://en.wikipedia.org/wiki/Solid-state_drive)
+#### [(Micro) SD Card](https://en.wikipedia.org/wiki/SD_card)
 
-### [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)
+#### [SSD (Solid State Drive)](https://en.wikipedia.org/wiki/Solid-state_drive)
 
-### [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+#### [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)
 
-### [Battery](https://en.wikipedia.org/wiki/Electric_battery)
+#### [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+#### [Battery](https://en.wikipedia.org/wiki/Electric_battery)
+
+### BIOS
+
+#### Battery Storage Mode
+
+### Connectivity
+
+#### Bluetooth
+
+#### Wi-Fi
+
+### Outputs
+
+#### Speakers
+
+#### 3.5mm / Headphone Jack
+
+#### Screen / Display
+
+##### Refresh Rate (hz)
+
+##### IPS
+
+##### OLED
+
+### Inputs
+
+#### Touchscreen
+
+#### Joysticks
+
+#### ABXY Buttons
+
+#### D-Pad
+
+#### Trackpads / Touchpads
+
+#### Bumpers / Shoulder Buttons
+
+#### Triggers
+
+#### Rear Grip / Back Buttons
 
 ## Gaming
 
@@ -60,3 +104,5 @@
 ### [DLSS](https://en.wikipedia.org/wiki/Deep_Learning_Super_Sampling)
 
 ### [XeSS](https://en.wikipedia.org/wiki/Intel_Arc#Intel_XeSS)
+
+### Steam Input
