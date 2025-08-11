@@ -17,8 +17,20 @@
 ## [SteamOS](https://en.wikipedia.org/wiki/SteamOS)
 
 ### Gaming / Big Picture Mode
+- Mode designed for usage with controllers and more "console-like" experience
+- This is the default mode when booting up SteamOS
 
 ### Desktop Mode
+- Mode that let's you access a normal desktop environment (default is KDE Plasma on SteamOS)
+
+### Steam Menu
+- Left menu in ```Gaming Mode``` which contains various navigation and other options
+    - Accessed by the following button(s):
+        - Steam Deck: ```(STEAM)``` located on the front bottom left side
+        - Xbox Controllers: ```Xbox```
+        - Playstation Controllers: ```PS```
+        - Nintendo Controllers: ```Home```
+        - Keyboard: ```CTRL + 1```
 
 ### QAM (Quick Access Menu)
 - Right menu in ```Gaming Mode``` which contains various device or game information and settings
@@ -28,8 +40,6 @@
         - Playstation Controllers: ```PS + X```
         - Nintendo Controllers: ```Home + B```
         - Keyboard: ```CTRL + 2```
-
-### Steam Menu
 
 ## Hardware
 
