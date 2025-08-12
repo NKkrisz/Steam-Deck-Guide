@@ -59,15 +59,21 @@
 
 #### [Battery](https://en.wikipedia.org/wiki/Electric_battery)
 
-### BIOS
+### [BIOS (Basic Input/Output System)](https://en.wikipedia.org/wiki/BIOS)
+
+### [UEFI (Unified Extensible Firmware Interface)](https://en.wikipedia.org/wiki/UEFI)
 
 #### Battery Storage Mode
+- Mode recommended when storing for a long time, shipping or taking apart a Steam Deck
+- Prevents power button press powering on the Steam Deck and the mode is exited by connecting a charger
+- Can be activated in the BIOS / UEFI
+- LCD Steam Decks ship with this enabled by default while OLEDs can be powered on normally
 
 ### Connectivity
 
-#### Bluetooth
+#### [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
 
-#### Wi-Fi
+#### [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)
 
 ### Outputs
 
