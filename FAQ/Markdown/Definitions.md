@@ -77,29 +77,29 @@
 
 ### Outputs
 
-#### Speakers
+#### [Speakers](https://en.wikipedia.org/wiki/Loudspeaker)
 
-#### 3.5mm / Headphone Jack
+#### [3.5mm / Headphone Jack](https://en.wikipedia.org/wiki/Phone_connector_(audio)#Mobile_devices)
 
-#### Screen / Display
+#### [Screen / Display](https://en.wikipedia.org/wiki/Electronic_visual_display)
 
-##### Refresh Rate (hz)
+##### [Refresh Rate (hz)](https://en.wikipedia.org/wiki/Refresh_rate)
 
-##### IPS
+##### [IPS](https://en.wikipedia.org/wiki/IPS_panel)
 
-##### OLED
+##### [OLED](https://en.wikipedia.org/wiki/OLED)
 
 ### Inputs
 
-#### Touchscreen
+#### [Touchscreen](https://en.wikipedia.org/wiki/Touchscreen)
 
-#### Joysticks
+#### [Joysticks](https://en.wikipedia.org/wiki/Analog_stick)
 
 #### ABXY Buttons
 
-#### D-Pad
+#### [D-Pad](https://en.wikipedia.org/wiki/D-pad)
 
-#### Trackpads / Touchpads
+#### [Trackpads / Touchpads](https://en.wikipedia.org/wiki/Touchpad)
 
 #### Bumpers / Shoulder Buttons
 
