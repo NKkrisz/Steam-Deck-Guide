@@ -59,10 +59,6 @@
 
 #### [Battery](https://en.wikipedia.org/wiki/Electric_battery)
 
-### [BIOS (Basic Input/Output System)](https://en.wikipedia.org/wiki/BIOS)
-
-### [UEFI (Unified Extensible Firmware Interface)](https://en.wikipedia.org/wiki/UEFI)
-
 #### Battery Storage Mode
 - Mode recommended when storing for a long time, shipping or taking apart a Steam Deck
 - Prevents power button press powering on the Steam Deck and the mode is exited by connecting a charger
@@ -107,6 +103,18 @@
 
 #### Rear Grip / Back Buttons
 
+## Software
+
+### [BIOS (Basic Input/Output System)](https://en.wikipedia.org/wiki/BIOS)
+
+### [UEFI (Unified Extensible Firmware Interface)](https://en.wikipedia.org/wiki/UEFI)
+
+### Discover
+
+#### Flatpak
+
+### Dual Boot
+
 ## Gaming
 
 ### [FPS](https://en.wikipedia.org/wiki/Frame_rate)
@@ -120,5 +128,7 @@
 ### [DLSS](https://en.wikipedia.org/wiki/Deep_Learning_Super_Sampling)
 
 ### [XeSS](https://en.wikipedia.org/wiki/Intel_Arc#Intel_XeSS)
+
+### Lossless Scaling
 
 ### Steam Input
