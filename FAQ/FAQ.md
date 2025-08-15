@@ -59,13 +59,7 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - SSD Swap
 
 ## [Software](https://software.steamdeck.guide)
-- Operating Systems (SteamOS, Windows, Other Linux Distros)
-- Decky (3rd party plugins)
-- Emulation (eg. Emudeck)
-- Remote Play
-- Cloud Gaming
-- Proton & Wine
-- Non Steam Launchers
+- Operating Systems, Decky, Emulation, Remote Play, Cloud Gaming, Non-Steam Launchers etc...
 
 ## [Gaming](./Markdown/Gaming.md)
 - Tips for playing and buying games for your Steam Deck
