@@ -31,5 +31,13 @@ SteamOS and Steam Deck related software and software modifications.
 - [Sunshine](https://github.com/LizardByte/Sunshine) & [Moonlight](https://moonlight-stream.org/) - PC Streaming
 
 ## Cloud Gaming
+- Gamepass
+- Playstation
+- Nvidia
+
+## Other Useful Software
+- OBS
+- Audacity
+- Kdenlive
 
 ## [Unofficial Public Mirror Of SteamOS & Steam Deck Repositories](https://gitlab.com/evlaV)
