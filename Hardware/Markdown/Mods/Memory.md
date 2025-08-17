@@ -4,8 +4,11 @@
 - Knowledge about BGA soldering
 - Proper tools for BGA soldering
 - BIOS Patch:
-    - Available in Steam Deck Discord
-    - [Balika011's site (DeckHD + 32GB combination too)](http://balika011.hu/deck_32gb/)
+    - LCD
+        - Available in Steam Deck Discord
+        - [Balika011's site (DeckHD + 32GB combination too)](http://balika011.hu/deck_32gb/)
+    - OLED
+        - Available in Steam Deck Discord
 
 ### LCD Steam Deck
 - Modding to 32GB is most common
@@ -17,7 +20,10 @@
 ![LCD Strap Resistor Diagram](../../Images/LCD/Balika011_LCD_Strap_Resistors_Diagram.png)
 
 ### OLED Steam Deck
-- RAM Modules are too hard to get(?)
+- Modding to 32GB is now possible!
+    - [Slickbuys Mods and Repairs video about it](https://www.youtube.com/watch?v=9qvP_lOP48M)
+- Tested Modules:
+    - Micron 16GB MT62F2G64D8AJ LPDDR5 (x2)
 
 #### OLED Strap Resistor Diagram
 ![OLED Strap Resistor Diagram](../../Images/OLED/Slickbuys_OLED_Strap_Resistors_Diagram.png)
