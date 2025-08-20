@@ -11,6 +11,7 @@ SteamOS and Steam Deck related software and software modifications information.
 - [Decky Loader / Plugin Store](https://decky.xyz/) - Install community made extensions for further customization or extra functionality!
 - [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs) - Convert from ext4 to btrfs file system for speed and storage gains!
 - [Steam Deck Refresh Rate Unlocker](https://github.com/ryanrudolfoba/SteamDeck-RefreshRateUnlocker) - Overclock your LCD Deck's screen!
+- [GardenGNOMEs](https://github.com/different55/GardenGNOMEs) - A messy handful of scripts to get GNOME up and running on the Steam Deck.
 - [Nested Desktop](https://www.xda-developers.com/nested-desktop-is-the-best-steam-deck-feature-you-arent-using/) - Use Desktop Mode* in Gaming Mode
     - Add **Nested Desktop** from **Lost & Found** in **Desktop Mode** from the **Start Menu** using **Add To Steam** after right clicking it
     - Buggy behavior, avoid complex usage - [see the comments under this Reddit post discussing Nested Desktop](https://www.reddit.com/r/SteamDeck/comments/1mc6ii0/nested_desktop_is_amazing_and_i_cant_believe_i/)
