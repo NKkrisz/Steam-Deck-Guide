@@ -4,7 +4,7 @@
 - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
     - Gets firmware updates from Valve
     - Comes with another Steam Deck charger
-    - Most likely needs an adapter if used with a case on (USB extension or fitment fix)
+    - Most likely needs adapters if used with a case on (USB extension and fitment fix)
     - Example adapter: [Project Killswitch - Steam Deck Dock Adapter From Dbrand](https://www.printables.com/model/411302-project-killswitch-steam-deck-dock-adapter)
 - Any brand should work but it's recommended to at least have USB-C PD (Power Delivery) so the Deck remains charged
 
@@ -31,12 +31,15 @@
     - Removable cable (To carry around any length needed)
 - Extra Strain Relief Solutions:
     - USB-C 90 / 180 Degree Adapters
-    - [3D Printed Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
 - [Additional information about battery and charging](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/)
 
 ## Other
 - [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
-    - [Digital Files To 3D Print And DIY These (Additional Hardware Required)](https://getmechanism.com/pages/digital-files)
+
+## 3D Printable
+- [Deckmate Digital Files (Additional Hardware Required)](https://getmechanism.com/pages/digital-files)
 - [Twystlock - Backplate Addons (3D Print, No Support Or Additional Hardware Required)](https://twystlock.com)
 - ["Lifesaver" Carrying Case Insert (For Drop Protection)](https://www.printables.com/model/254680-steam-deck-lifesaver-drop-protection)
 - [Repair Jig (Or Use The Stock Carrying Case)](https://www.printables.com/model/167283-steam-deck-repair-jig-fixed)
+- [Cable Relief](https://www.printables.com/model/218771-steam-deck-cable-strain-relief)
+- [Thumbstick Grips](https://www.thingiverse.com/thing:5622173)
