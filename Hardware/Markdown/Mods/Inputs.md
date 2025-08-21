@@ -31,12 +31,24 @@
 - Might be better solution compared to current hall effect offerings from Gulikit / Elecgear
 
 ### Joystick Cap Swap
-- *Not Tested Yet - Basically OLED Joystick Caps Soldered To LCD Joystick Modules To Provide Better Grip And Look Better*
-1. Buy OLED / LCD Hall Effect Sticks Depending On Witch One You Want (eg. Gulikit, sadly joystick caps only aren't available anywhere)
-2. Desolder joystick caps from hall effect sticks
+
+#### Swapping Original* Caps From Whole Joysticks
+1. Buy LCD / OLED Joysticks (*Original from iFixit or 3rd party hall effect / TMR like Gulikit which are mostly the same)
+2. Desolder joystick caps from bought joysticks
 3. Desolder joystick caps from original sticks
-4. Solder joystick caps from the hall effect stick to the original ones
+4. Solder joystick caps from the bought sticks to the original ones
+    - Make sure the wire won't be in the way when moving the cap around
+6. Calibrate the joysticks
 5. Test if everything works correctly
+
+#### Swapping To 3rd Party Joystick Caps
+1. Buy Joystick Caps (See options below)
+3. Desolder joystick caps from original sticks
+4. Solder the new joystick caps to the original sticks (if it has capacitive touch)
+    - Make sure the wire won't be in the way when moving the cap around
+6. Calibrate the joysticks
+5. Test if everything works correctly
+- [Extremerate](https://www.extremerate.com/collections/for-steam-deck-lcd-oled-replacement-thumbsticks)
 
 #### How To Add Capacitive Touch to Non-Steam Deck Joysticks
 > Capacitive touch is one wire connected to a copper plate.  
