@@ -80,7 +80,7 @@
 - ### [Dual Screen](https://www.reddit.com/r/SteamDeckModded/comments/1en98vt/my_take_on_dual_screen/)
 - ### [Rumble](./Markdown/Mods/Rumble.md)
 
-## [🕹️ Accessories](./Markdown/Other/Accessories.md)
+## [🕹️ Accessories](../FAQ/Markdown/Accessories.md)
 
 ## 🎮 Fully Transformed Steam Deck Examples
 - [RAM, Wifi, Shell, Joystick And Screen Upgrade](https://www.youtube.com/watch?v=HW1yAWZjGrk)
