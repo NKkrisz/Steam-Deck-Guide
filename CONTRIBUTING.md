@@ -5,14 +5,15 @@
 
 ## Rules & Guidelines
 - List the source of the information
-- Media files need to be named with source / creator's name at the beginning
-- Sources or other creators / users etc... shall be credited in [Credits.md](./Repository/Markdown/Credits.md)
+    - Sources or other creators / users etc... shall be credited in [Credits.md](./Repository/Markdown/Credits.md)
+    - Media files need to be named with source / creator's name at the beginning
+- If possible, try keeping the informational part of the guide self-contained and don't rely on external links (eg. links to products are fine but explaining something should be written into the guide)
+    - Product links should go to the manufacturer's site if available
+    - Links can't contain tracking information, can't be affiliated and no shorteners are allowed
 - Try keeping the file structure and writing style the same
     - Naming files / images / folders etc... should use underscores (```_```) instead of spaces (``` ```)
     - For things that need more detailed / longer form text write them into a separate files
     - Try grouping similar things into folders
-- Product links should go to the manufacturer's site if available
-- Links can't contain tracking information, can't be affiliated and no shorteners are allowed
 
 ## Don't know how Git / GitHub works? - 2 Easier Ways To Contribute
 
