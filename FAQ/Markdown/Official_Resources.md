@@ -6,6 +6,7 @@
 - [Dock Tech Specs](https://www.steamdeck.com/en/tech/dock)
 - [Software - Steam & SteamOS](https://www.steamdeck.com/en/software)
 - [Deck Verified - Game Compatibility Program](https://www.steamdeck.com/en/verified)
+- [News & Updates](https://www.steamdeck.com/en/news)
 - [FAQ](https://www.steamdeck.com/en/faq)
 
 ## Steam Store
