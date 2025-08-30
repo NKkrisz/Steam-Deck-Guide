@@ -4,6 +4,11 @@
 [GitHub > NKkrisz > Steam-Deck-Guide](https://github.com/NKkrisz/Steam-Deck-Guide)
 
 ## Rules & Guidelines
+- Contributions need to be communicated in English
+- The guide is English only for now
+    - Non-English sources are fine, just translate them to English when adding them to the guide
+    - It would make more sense to do translations after the guide is more complete
+    - Not sure what the process / execution of translations would look like (separate folders, forks, other solution...?)
 - List the source of the information
     - Sources or other creators / users etc... shall be credited in [Credits.md](./Repository/Markdown/Credits.md)
     - Media files need to be named with source / creator's name at the beginning
