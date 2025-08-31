@@ -1,6 +1,8 @@
 # Software
 SteamOS and Steam Deck related software and software modifications information.
 
+## [Launchers, Emulation, Remote Play & Cloud Gaming](../FAQ/Markdown/Gaming.md)
+
 ## Operating Systems
 - [SteamOS / Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3)
 - [MacOS with OpenCore](https://github.com/CodeRunner5235/Opencore-Steam-Deck)
@@ -23,28 +25,9 @@ SteamOS and Steam Deck related software and software modifications information.
 ## Proton & Wine
 - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage Proton-GE for Steam and Wine-GE for Lutris with this graphical user interface
 
-## Emulation
-- [EmuDeck](https://www.emudeck.com/)
-- [RetroDeck](http://retrodeck.net/)
-
-## Non-Steam Launchers
-- [Heroic Games Launcher](https://heroicgameslauncher.com/)
-- [Lutris](https://lutris.net/)
-- [Prism Launcher (Minecraft)](https://prismlauncher.org/)
-
-## Remote Play
-- [XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - Stream One and Series S/X consoles in 1080p 
-- [Chiaki-ng](https://streetpea.github.io/chiaki-ng/) - PlayStation Remote Play for Everyone
-- [Sunshine](https://github.com/LizardByte/Sunshine) & [Moonlight](https://moonlight-stream.org/) - PC Streaming
-
-## Cloud Gaming
-- Gamepass
-- Playstation
-- Nvidia
-
 ## Other Useful Software
-- OBS
-- Audacity
-- Kdenlive
+- Screencasts, Livestreaming - [OBS](https://obsproject.com/)
+- Audio Recording and Editing - [Audacity](https://www.audacityteam.org/)
+- Video Editing - [Kdenlive](https://kdenlive.org/)
 
 ## [Unofficial Public Mirror Of SteamOS & Steam Deck Repositories](https://gitlab.com/evlaV)

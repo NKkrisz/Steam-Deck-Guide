@@ -1,5 +1,12 @@
 # Gaming On The Steam Deck
 
+## Buying Games
+- [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
+- [Steam](https://store.steampowered.com/)
+    - [Steam Sales Calendar](https://steamdb.info/sales/history/)
+- [Fanatical](https://www.fanatical.com/en/)
+- [Humble Bundle](https://www.humblebundle.com/)
+
 ## Game Compatibility
 - [Steam Deck Compatibility Program](https://www.steamdeck.com/en/verified)
 - [ProtonDB](https://www.protondb.com/)
@@ -17,13 +24,19 @@
 - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck)
 - [Junk Store](https://www.junkstore.xyz/)
 
+## Emulation
+- [EmuDeck](https://www.emudeck.com/)
+- [RetroDeck](http://retrodeck.net/)
 
-## Buying Games
-- [Top played games on Deck](https://store.steampowered.com/charts/steamdecktopplayed)
-- [Steam Sales For Games](https://steamdb.info/sales/history/)
-- Steam
-- Fanatical
-- Humble Bundle
+## Remote Play
+- [XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - Stream One and Series S/X consoles in 1080p 
+- [Chiaki-ng](https://streetpea.github.io/chiaki-ng/) - PlayStation Remote Play for Everyone
+- [Sunshine](https://github.com/LizardByte/Sunshine) & [Moonlight](https://moonlight-stream.org/) - PC Streaming
+
+## Cloud Gaming
+- [Xbox Cloud Gaming in Microsoft Edge](https://support.microsoft.com/en-us/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296)
+- [Nvidia Geforce Now App](https://www.nvidia.com/en-us/geforce-now/download/)
+- PlayStation Plus - Requires tinkering with Proton or easy install with [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck)
 
 ## Quick Settings
 
