@@ -1,31 +1,41 @@
 # Accessories For The Steam Deck
 
 ## Manufacturer List
-- Valve / Steam:
+- [Valve / Steam](https://store.steampowered.com/search/?category1=993):
     - Steam Deck Dock
     - Steam Controller
     - Steam Link
-- Dbrand
+- [Dbrand](https://dbrand.com/search?query=steam+deck)
     - Killswitch (case)
     - Skins
     - Screen protector
-- Skull&Co
+- [Savage Raven By Skull & Co.](https://www.savage-raven.com/collections/steam-deck)
     - Carrying cases
     - Protective cases
     - Thumbstick caps
     - Back button extensions
-- Jsaux
+- [Jsaux](https://jsaux.com/collections/steam-deck-accessories)
     - Docks
     - Protective cases
     - Carrying cases
     - Screen protectors
     - Backplate swaps
-- Tomtoc
+- [Tomtoc](https://www.tomtoc.com/collections/all-for-steam-deck-oled)
     - Carrying cases
-- Playvital
+    - Protective cases
+- [Playvital](https://www.playvital.com/collections/steam-deck)
     - Back button extensions
+    - Trigger extensions
+    = Thumbstick caps
+    - Control precision rings
+    - Protective cases
+    - Skins
+    - Grips
+    - Dust cover
 
 ## MicroSD Cards
+- [Samsung](https://www.samsung.com/us/computing/memory-storage/memory-cards/)
+- [Sandisk](https://shop.sandisk.com/product-portfolio/memory-cards/microsd-cards)
 
 ## Back Button Extensions
 
@@ -34,6 +44,10 @@
 ## Thumbstick Caps
 
 ## Controllers
+- [8BitDo](https://www.8bitdo.com/)
+- [Gulikit](https://gulikit.com/)
+- [Xbox](https://www.xbox.com/en-US/accessories/controllers/)
+- [Playstation](https://direct.playstation.com/en-us/accessories/controllers-and-remotes)
 
 ## Docks & Hubs
 - [Valve's Steam Deck Dock](https://www.steamdeck.com/en/dock)
