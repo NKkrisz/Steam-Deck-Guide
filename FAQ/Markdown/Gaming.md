@@ -95,7 +95,7 @@
 - Sets framerate and display refresh rate limit
     - Optimal settings:
         - LCD (60hz screen): 30 / 40 / 60
-        - OLED (90hz scree): 30 / 45 / 90
+        - OLED (90hz screen): 30 / 45 / 90
 
 #### Disable Frame Limit
 - Allows the Deck to go beyond the highest frame limit
@@ -107,9 +107,10 @@
 #### Half Rate Shading
 
 #### TDP Limit
+- Limit power usage - can be useful to extend battery life in exchange for less performance
 
 #### Manual GPU Clock
-- In certain situations its more beneficial to set this manually
+- In certain situations it's more beneficial to set this manually
 
 #### Scaling Mode
 - Auto:
@@ -139,3 +140,10 @@
 - Overclock / undervolt in the BIOS
 
 ## Steam Input / Controller Templates
+- Useful when there's no controller support in a software (game)
+- Map various keys, buttons, use gyro, capacitive touch, trackpads etc...
+- Adjust sensitivity, use different modes and layers, add menus etc...
+- Back buttons, gyro, capacitive touch and trackpads aren't mapped to anything usually
+    - FPS games can greatly benefit from trackpad + gyro control
+    - Back buttons can be useful when multiple buttons need to be pressed at the same time / in quick succession
+- Game developers and the Steam community can make templates to try out instead of making one yourself
