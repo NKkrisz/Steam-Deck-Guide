@@ -72,17 +72,21 @@
 #### Steam haptics
 
 ## Performance
+- There is built in additional information for the options below, use the button shown on the bottom of the screen to view them
+    - Information written in style ```like this``` is copied from there
 
 ### Battery
-- Shows battery level in %
-- Calculates remaining battery life in hours and minutes based on current power usage
+- Shows battery level %
+- Calculates remaining battery life or charging time in hours and minutes based on current power consumption
 
 ### Performance Overlay Level
-- Off: No overlay 
+- ```Adjust this setting to control how much data is shown in the performance overlay.```
+- ```The performance overlay provides realtime data about the current status of your device, including frames per second, power consumption, GPU and CPU usage and more. This data can be useful to determine how a settings change impacts performance and battery life.```
+- Off: No overlay
 - 1: FPS only in top left corner
-- 2: FPS, Frametime, CPU, GPU, RAM, VRAM, Battery, Power Usage and Time information in a row at the top of the screen
-- 3: Same as level 2 but a tiny bit more detailed and on the left side
-- 4: Everything on the left side
+- 2: FPS, Frametime, CPU, GPU, RAM, VRAM, Battery %, Power Consumption and Remaining Time / Charging Status information in a row at the top of the screen
+- 3: Level 2 but a bit more detailed and on the top left corner
+- 4: Everything on the left side (too long to list)
 
 **To use settings below you need to be in ```Advanced View``` instead of ```Basic View```**
 
@@ -92,37 +96,54 @@
 - Toggle to use saved Performance Settings for currently running game
 
 #### Frame Limit
-- Sets framerate and display refresh rate limit
-    - Optimal settings:
-        - LCD (60hz screen): 30 / 40 / 60
-        - OLED (90hz screen): 30 / 45 / 90
+- ```Specify the maximum frames per second (FPS) the game is allowed to render. Users typically prefer framerate limits near (or slightly lower than) the game's average framerate.```
+- ```Higher framerates typically produce smoother / lower-latency gameplay, at the expense of increased power usage.```
+- ```Some games may have adverse effects when refresh rate limiting is enabled, including increased input lag or audio glitches. For these cases it is recommended to set the framerate limit to the maximum.```
+- Optimal settings:
+    - LCD (60hz screen): 30 / 40 / 60
+    - OLED (90hz screen): 30 / 45 / 90
+- In the beginning there were separate sliders for framerate limit and refresh rate
+    - This then got replaced by the current implementation called ```Unified Refresh Rate Management``` and it was toggleable in ```Display``` settings until the option got removed
 
 #### Disable Frame Limit
-- Allows the Deck to go beyond the highest frame limit
+- ```Disabling the frame limit allows games to render as fast as hardware performance allows (potentially higher than the display refresh rate).```
+- ```This setting may minimize frame latency for some games, but can potentially consume large amounts of power to render frames that will not reach the screen.```
+- ```It is recommended to keep this settings disabled under normal usage to preserve battery life.```
 
 #### Allow Tearing
-- By default the Deck uses some form of sync so there isn't tearing on the screen making the image smoother with the downside of more input lag
+- ```This toggle allows a game to render at a different refresh rate than the display.```
+- ```Synchronizing the game's render output with the display can introduce latency to the render pipeline. Enabling this setting can mitigate this latency, but can result in tearing artifacts during gameplay.```
+- ```To take advantage of this setting, VSync must be disabled in the game's settings and the frame limit setting must be turned off.```
 - [Currently this option doesn't seem to work](https://github.com/ValveSoftware/SteamOS/issues/1391)
 
 #### Half Rate Shading
+- ```Turning on half rate shading forcibly reduces the shading quality used by a game.```
+- ```This can improve battery life and performance by reducing the amount of work a game needs to do to generate a new frame. This results in reduced visual quality for games.```
+- Sometimes causes visual issues like text being less readable
+- It's recommended to disable this setting the first time playing a game to avoid troubleshooting
 
 #### TDP Limit
-- Limit power usage - can be useful to extend battery life in exchange for less performance
+- ```Adjust this value to limit the maximum amount of power Steam Deck is allowed to consume.```
+- ```Lowering the TDP limit reduces the amount of work the system is allowed to do per second. This results in improved battery life, bu will also reduce the system's performance while playing games.```
 
 #### Manual GPU Clock
-- In certain situations it's more beneficial to set this manually
+- ```Adjust this value to set a fixed clock for the system's GPU, which can be useful for stabilizing a game's framerate.```
+- ```Normally the GPU automatically adjusts clock frequency to balance battery consumption and performance. Some games have drastic transitions between low and high GPU usage, which sometimes hitch if the GPU does not ramp up the clocks fast enough. For these cases it can be useful to set a fixed clock to avoid a hitch due to an underclocked GPU.```
 
 #### Scaling Mode
-- Auto:
-- Integer:
-- Fit:
-- Stretch:
-- Fill:
+- ```Change this value to modify how windows smaller than the current screen resolution get scaled to fit the screen.```
+- ```Auto: Preserves aspect ratio, scales up to 2x```
+- ```Integer: Preserves pixel ratio (best for pixel art games)```
+- ```Fill: Fill the whole display, preserving aspect ratio (will result in clipping)```
+- ```Stretch: Fill the whole display without preserving aspect ratio```
+- ```Fit: Preserves aspect ratio, scales up to fit the display```
 
 #### Scaling Filter
-- Linear:
-- Pixel:
-- Sharp:
+- ```Change this value to set the post processing filter applied when an application window is scaled:```
+- ```Linear: Linear interpolation filter```
+- ```Pixel: Band limited nearest neighbour filter```
+- ```Sharp: Platform-specific super-resolution sharpening filter```
+    - Uses FSR in the Steam Deck's case
 
 #### Show Perf Overlay In Steam
 - Enables the performance overlay to show up when not playing a game in gaming mode (browsing menus)
