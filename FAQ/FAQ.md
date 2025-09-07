@@ -1,7 +1,9 @@
 # Frequently Asked Questions (FAQ)
 Answers for Frequently Asked Questions related to the Steam Deck.
 
-**We don't know when Steam Deck sales, re-stocks or the Steam Deck 2 will happen.**
+**We don't know when (refurbished) Steam Deck (Dock) sales, re-stocks happen.**
+
+**Steam Deck 2 is being worked on but isn't coming until a ["generational leap in compute without sacrificing battery life"](https://www.reviews.org/au/games/valve-steam-deck-australia-interview/), there isn't an official time estimate for release.**
 
 ## [READ THESE FIRST: Official Resources made by Valve / Steam](./Markdown/Official_Resources.md)
 - Links to various pages regarding the Steam Deck or Steam in general
@@ -11,6 +13,8 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 
 ## [Is The Steam Deck The Right Choice For You?](./Markdown/Choice.md)
 - Pricing, sales, hardware, software, other uses and comparisons
+
+## [Shipping Information](./Markdown/Shipping.md)
 
 ## Beginner Tips:
 - ***Use the thing. Don't be afraid of tinkering, it's a PC.***
