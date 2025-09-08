@@ -32,7 +32,7 @@
         - Nintendo Controllers: ```Home```
         - Keyboard: ```CTRL + 1```
 
-### QAM (Quick Access Menu)
+### Quick Settings
 - Right menu in ```Gaming Mode``` which contains various device or game information and settings
     - Accessed by the following button(s):
         - Steam Deck: ```(...)``` located on the front bottom right side
