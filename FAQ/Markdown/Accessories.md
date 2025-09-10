@@ -1,12 +1,13 @@
 # Accessories For The Steam Deck
 
-## Manufacturer List
+## Steam Deck Accessory Manufacturers
 - [Valve / Steam](https://store.steampowered.com/search/?category1=993)
 - [Dbrand](https://dbrand.com/search?query=steam+deck)
 - [Savage Raven by Skull & Co.](https://www.savage-raven.com/collections/steam-deck)
 - [Jsaux](https://jsaux.com/collections/steam-deck-accessories)
 - [Tomtoc](https://www.tomtoc.com/collections/all-for-steam-deck-oled)
 - [Playvital](https://www.playvital.com/collections/steam-deck)
+- [Mechanism](https://getmechanism.com/pages/steam-deck-shopping)
 
 ## MicroSD Cards
 - [Samsung](https://www.samsung.com/us/computing/memory-storage/memory-cards/)
@@ -117,13 +118,22 @@
 ## External Monitors
 
 ## VR headsets & AR / XR Glasses
+- [Meta](https://www.meta.com/quest/)
+    - [Quest 3](https://www.meta.com/quest/quest-3/)
+    - [Quest 3S](https://www.meta.com/quest/quest-3s/)
+- [XREAL](https://www.xreal.com/)
+    - [One Pro](https://www.xreal.com/one-pro/)
+    - [One](https://www.xreal.com/one/)
+    - [Air 2 Ultra](https://www.xreal.com/air2ultra/)
+    - [Air 2](https://www.xreal.com/air2/)
 
 ## Backplate Extension Systems
-- [DeckMate - Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
+- [Mechanism - DeckMate Backplate Addons](https://getmechanism.com/collections/shop-mechanism/deckmate)
 
 ## Other
 - [Playvital - Dust Cover](https://www.playvital.com/collections/dust-cover-for-steam-deck)
 - [Savage Raven by Skull & Co. - MagStand Magnetic Ultra-Thin Ring Stand](https://www.savage-raven.com/collections/steam-deck/products/savage-raven-by-skull-co-magstand-magnetic-ultra-thin-ring-stand-compatible-with-switch-2-steam-deck-rog-ally-apple-magsafe)
+- [Mechanism - Gaming Pillow](https://getmechanism.com/products/gaming-pillow)
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/)
 
 ## 3D Printable (Mixed)
