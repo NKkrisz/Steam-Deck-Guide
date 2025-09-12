@@ -29,18 +29,32 @@
 
 ## [🧑‍💻 Software Guides And Information](Software/Software.md)
 
-## 📜 TODO (Bold items are in progress)
-- **Add info about stiffer / stronger trigger mod (different / combination of springs)**
-- **Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)**
-- **Add info about more cooling mods (better fan, better heatsink, liquid cooling)**
-- **Get pictures of all LCD** & OLED **components (all sides)**
-- **DIY Hall-effect / TMR joysticks research and testing**
-- **Get DeckSight (LCD to OLED swap) and test it**
+## 📜 TODO
+
+### Steam Deck Guide
 - Move TODO to GitHub Projects?
-- Update old / add new info into Markdown files:
-    - Carrying Cases
-    - Other things...
+- Update old / add new info
+- Optimize images to be smaller in file size for faster loading
+- Redesign [steamdeck.guide](https://steamdeck.guide)
+- Better styling for the different parts of the guide:
+    - Light / dark mode
+    - Lists
+
+### FAQ
+- Add more information about charging / power related topics
+
+### Software
+- Go more in depth (Decky, Operating Systems etc...)
+
+### Hardware
+- Add info about stiffer / stronger trigger mod (different / combination of springs)
+- Get more video footage of certain mods (eg. clicky buttons, dual-stage triggers)
+- Add info about more cooling mods (better fan, better heatsink, liquid cooling)
+- Get pictures of all LCD & OLED components (all sides)
+- DIY Hall-effect / TMR joysticks research and testing
+- Get DeckSight (LCD to OLED swap) and test it
 - Add images of packaging (worldwide and Japanese versions)
+- Carrying Cases
 - Remove background of Steam Deck revision pictures manually
 - Separate EV2 and early production LCD Steam Decks in comparison table
 - OLED battery swap into LCD Deck? ([Currently doesn't work - Most likely a firmware modification is needed](https://www.ifixit.com/Answers/View/823192/Could+I+put+the+new+Steam+Deck+OLED+battery+into+the+original+Deck))
@@ -49,13 +63,5 @@
 - Compile useful commands and tips for hardware modding
 - Get more info about panel types (BOE, Samsung etc...)
 - Get a list of all stock SSDs used in Steam Decks
-- Optimize images to be smaller in file size for faster loading
 - Add other places to get / details about replacement parts (eg. trigger springs, USB-C port)
 - Add information about various backplate mod differences (extra holes, heatsinks, RGB etc...)
-- Redesign [steamdeck.guide](https://steamdeck.guide)
-- Revamp FAQ and Software Guides
-- Add information to FAQ:
-    - Charging / power related topics
-- Make better styling for the different parts of the guide:
-    - Light / dark mode
-    - Lists
