@@ -8,6 +8,18 @@
 - Post about the issue you're encountering if you couldn't fix a solution
 - Contact Steam Support
 
+## Accessing Menus And Resetting Things
+Make sure the Steam Deck is fully turned off before trying these!
+
+- Hold Power Button For 5 Seconds: Force Shut Down
+- Hold Power Button For 10 Seconds: Force Shutdown Then Restart
+- Hold Volume(-) + Press Power Button: Boot Manager
+- Hold Volume(+) + Press Power Button: BIOS Menu
+- Hold Volume(-) + Hold Three Dots (•••) + Press Power button: Reset Firmware And BIOS
+- Hold Three Dots (•••) + Press Power Button: SteamOS Menu
+
+[More Information](https://www.reddit.com/r/SteamDeck/comments/17f7v8g/easy_factory_reset_option_that_valve_doesnt_want/)
+
 ## Charging
 - Use stock charger or equivalent (45W with PD support)
 - Avoid using magnetic chargers or cable extenders if possible

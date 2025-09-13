@@ -35,7 +35,7 @@
 ### Quick Settings
 - Right menu in ```Gaming Mode``` which contains various device or game information and settings
     - Accessed by the following button(s):
-        - Steam Deck: ```(...)``` located on the front bottom right side
+        - Steam Deck: ```(•••)``` located on the front bottom right side
         - Xbox Controllers: ```Xbox + A```
         - Playstation Controllers: ```PS + X```
         - Nintendo Controllers: ```Home + B```
