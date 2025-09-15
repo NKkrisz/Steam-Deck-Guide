@@ -8,13 +8,14 @@
 - [Humble Bundle](https://www.humblebundle.com/)
 
 ## Game Compatibility
-- [Steam Deck Compatibility Program](https://www.steamdeck.com/en/verified)
-- [ProtonDB](https://www.protondb.com/)
-- [SteamDeckHQ](https://steamdeckhq.com/)
-- [ShareDeck](https://sharedeck.games/)
+- [Official Steam Deck Compatibility Program](https://www.steamdeck.com/en/verified)
+- [ProtonDB - Welcome to your home for crowdsourced Linux and Steam Deck game compatibility reports!](https://www.protondb.com/)
+- [Are We Anti-Cheat Yet? - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.](https://areweanticheatyet.com/)
+- [SteamDeckHQ - News, Reviews, Articles, Videos, etc...](https://steamdeckhq.com/)
+- [ShareDeck -  An unofficial site to find and share Steam Deck performance configurations.](https://sharedeck.games/)
 - YouTube
 - Reddit
-    - [r/SteamDeck](https://www.reddit.com/r/SteamDeck/)
+    - [r/SteamDeck - The Unofficial Subreddit for the Valve Steam Deck! Find discussions, games running on Deck, hardware / software mods and much more!](https://www.reddit.com/r/SteamDeck/)
 
 ## Game Launchers & Other Stores
 - Discover - The default software center in ```SteamOS``` found in ```Desktop Mode```
