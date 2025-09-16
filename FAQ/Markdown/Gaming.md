@@ -30,9 +30,13 @@
 - [RetroDeck](http://retrodeck.net/)
 
 ## Remote Play
-- [XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - Stream One and Series S/X consoles in 1080p 
-- [Chiaki-ng](https://streetpea.github.io/chiaki-ng/) - PlayStation Remote Play for Everyone
-- [Sunshine](https://github.com/LizardByte/Sunshine) & [Moonlight](https://moonlight-stream.org/) - PC Streaming
+- [Steam Remote Play](https://store.steampowered.com/streaming/)
+- ~~[XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - Stream One and Series S/X consoles in 1080p~~ - [Support Ended](https://store.steampowered.com/news/app/2693120/view/553501640235156546)
+- [Greenlight](https://github.com/unknownskl/greenlight) - Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.
+- [XStreamingDesktop](https://github.com/Geocld/XStreamingDesktop) - XStreaming is an open-source mobile client for xCloud and Xbox home streaming, greatly inspired by Greenlight.
+- [Chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
+- [Moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine.
+- [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 
 ## Cloud Gaming
 - [Xbox Cloud Gaming in Microsoft Edge](https://support.microsoft.com/en-us/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296)
