@@ -6,6 +6,7 @@
 - [Dock Tech Specs](https://www.steamdeck.com/en/tech/dock)
 - [Software - Steam & SteamOS](https://www.steamdeck.com/en/software)
 - [Deck Verified - Game Compatibility Program](https://www.steamdeck.com/en/verified)
+    - [Your Games: Steam Deck Compatibility](https://store.steampowered.com/steamdeck/mygames)
 - [News & Updates](https://www.steamdeck.com/en/news)
 - [FAQ](https://www.steamdeck.com/en/faq)
 
@@ -15,6 +16,8 @@
 
 ## Steam Support
 - [Steam Deck - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
+- [Steam Deck - Software Info & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/7DD4-C618-182E-0E49)
+- [Steam Deck Desktop: FAQ](https://help.steampowered.com/en/faqs/view/671A-4453-E8D2-323C)
 - [Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3)
 - [Steam Deck - Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)
 - [Help With Steam Deck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)

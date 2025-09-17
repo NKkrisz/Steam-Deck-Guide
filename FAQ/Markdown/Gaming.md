@@ -9,6 +9,7 @@
 
 ## Game Compatibility
 - [Official Steam Deck Compatibility Program](https://www.steamdeck.com/en/verified)
+    - [Your Games: Steam Deck Compatibility](https://store.steampowered.com/steamdeck/mygames)
 - [ProtonDB - Welcome to your home for crowdsourced Linux and Steam Deck game compatibility reports!](https://www.protondb.com/)
 - [Are We Anti-Cheat Yet? - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.](https://areweanticheatyet.com/)
 - [SteamDeckHQ - News, Reviews, Articles, Videos, etc...](https://steamdeckhq.com/)
