@@ -23,6 +23,9 @@ Answers for Frequently Asked Questions related to the Steam Deck.
 - Buy stuff only YOU think is necessary, there are no "must haves".
 - Learn from here or from others - there are so many resources available.
 
+## [General Usage](./Markdown/General_Usage.md)
+- Tips for day-to-day usage of your Steam Deck
+
 ## [Gaming](./Markdown/Gaming.md)
 - Tips for playing and buying games for your Steam Deck
 

@@ -41,7 +41,6 @@
     - Lists
 
 ### FAQ
-- Add more information about charging / power related topics
 
 ### Software
 - Go more in depth (Decky, Operating Systems etc...)
