@@ -1,6 +1,6 @@
-# Steam Deck Pre Mass Production Units (EV2)
+# Pre Mass Production Steam Decks
 
-## Valve Early Steam Deck Dev Kits
+## Early Steam Deck Dev Kits (EV2)
 ![Valve Dev Kit (1)](../../Images/LCD/EV2/Valve_Dev_Kit_1.png)
 ![Valve Dev Kit (2)](../../Images/LCD/EV2/Valve_Dev_Kit_2.png)
 ![Valve Dev Kit (3)](../../Images/LCD/EV2/Valve_Dev_Kit_3.png)
@@ -17,10 +17,10 @@
 ![Stanto EV2 (8)](../../Images/LCD/EV2/Stanto_EV2_8.png)
 ![Stanto EV2 (9)](../../Images/LCD/EV2/Stanto_EV2_9.jpg)
 
-## Engineering Samples
+## Engineering Sample APU
 ![Engineering Sample (1)](../../Images/LCD/Engineering_Sample/Engineering_Sample_1.jpg)
 ![Engineering Sample (2)](../../Images/LCD/Engineering_Sample/Engineering_Sample_2.jpg)
 
-## Other Unknown Version (possibly EV2?)
+## Other Unknown Version (EV1?)
 ![Other (1)](../../Images/LCD/Other/Other_Old_Deck_1.jpg)
 ![Other (2)](../../Images/LCD/Other/Other_Old_Deck_2.jpg)

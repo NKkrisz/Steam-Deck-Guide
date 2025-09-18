@@ -1,4 +1,4 @@
-# Steam Deck Prototypes
+# Prototype Steam Decks
 
 ## "Engineering Sample 34" Sold On Ebay [Bought By SadlyItsBradley](https://x.com/SadlyItsBradley/status/1932457900879806884)
 
