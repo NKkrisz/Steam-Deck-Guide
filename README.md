@@ -39,8 +39,10 @@
 - Better styling for the different parts of the guide:
     - Light / dark mode
     - Lists
+    - Add more images
 
 ### FAQ
+- Explain important differences between Steam Deck models to help in the purchasing decision (LCD/OLED, Antiglare/Glossy etc...)
 
 ### Software
 - Go more in depth (Decky, Operating Systems etc...)
@@ -64,3 +66,4 @@
 - Get a list of all stock SSDs used in Steam Decks
 - Add other places to get / details about replacement parts (eg. trigger springs, USB-C port)
 - Add information about various backplate mod differences (extra holes, heatsinks, RGB etc...)
+- Add more information about "Engineering Sample 34" from Bringus Studio's video
