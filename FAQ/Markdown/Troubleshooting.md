@@ -1,41 +1,43 @@
 # Troubleshooting
 
 ## General
-- Restart the Steam Deck
+- Restart software, hardware or the Steam Deck itself
 - Make sure OS / drivers / software (game) are fully updated
-- Factory reset / reinstall OS
 - Search for the issue (YouTube, Steam Deck communities etc...)
 - Post about the issue you're encountering if you couldn't fix a solution
-- Contact Steam Support
+- Factory reset / reinstall OS
+- [Contact Steam Support](https://help.steampowered.com/en/)
+    - [Help With Steam Deck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
 ## Accessing Menus And Resetting Things
-Make sure the Steam Deck is fully turned off before trying these!
+**Make sure the Steam Deck is fully turned off before trying these!**
 
-- Hold Power Button For 5 Seconds: Force Shut Down
-- Hold Power Button For 10 Seconds: Force Shutdown Then Restart
-- Hold Volume(-) + Press Power Button: Boot Manager
-- Hold Volume(+) + Press Power Button: BIOS Menu
-- Hold Volume(-) + Hold Three Dots (•••) + Press Power button: Reset Firmware And BIOS
-- Hold Three Dots (•••) + Press Power Button: SteamOS Menu
+- **Force Shut Down**: Hold Power Button For 5 Seconds
+- **Force Shutdown Then Restart**: Hold Power Button For 10 Seconds
+- **Boot Manager**: Hold Volume(-) + Press Power Button:
+- **BIOS Menu**: Hold Volume(+) + Press Power Button
+- **Reset Firmware** And BIOS: Hold Volume(-) + Hold Three Dots (•••) + Press Power button
+- **SteamOS Menu**: Hold Three Dots (•••) + Press Power Button
 
 [More Information](https://www.reddit.com/r/SteamDeck/comments/17f7v8g/easy_factory_reset_option_that_valve_doesnt_want/)
 
 ## Charging
-- Use stock charger or equivalent (45W with PD support)
+- Use stock charger or equivalent / stronger - 45W+ with USB PD support
 - Avoid using magnetic chargers or cable extenders if possible
 
 ## Docking / Using A Hub
-- Restart the Steam Deck
 - Re-connect the Dock / Hub
 - Sometimes power is needed for functionality - use a good power supply
 - Try different cables if there are issues connecting a device to the dock / hub
 - Update firmware of dock / hub if possible
 
 ## Gaming
-- Restart the game
+- Unable to install a game due to grayed out ```Install``` button and ```Available For Windows``` text:
+    - Go into the game properties' (Menu Button / Gear > Properties > Compatibility) and enable ```Force the use of a specific Steam Play compatibility tool``` (eg. Proton Experimental)
+- Not all games have Steam Cloud functionality so saves need to be transferred manually between devices (eg. Dark Souls III)
 - Turn off HDR if random colors appear
 - Use a different configuration (settings, Proton version, etc...) - see ProtonDB user reports
-- See if Quick Settings menu is properly configured
+- See if ```Quick Settings``` are properly configured
 - See potentially limiting factors by enabling ```Performance Overlay``` in ```Quick Settings```
 
 ## Controls

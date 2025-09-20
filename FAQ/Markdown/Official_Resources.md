@@ -10,11 +10,11 @@
 - [News & Updates](https://www.steamdeck.com/en/news)
 - [FAQ](https://www.steamdeck.com/en/faq)
 
-## Steam Store
+## [Steam Store](https://store.steampowered.com/)
 - [Buy Steam Deck](https://store.steampowered.com/steamdeck)
 - [Buy Steam Deck Dock](https://store.steampowered.com/steamdeckdock)
 
-## Steam Support
+## [Steam Support](https://help.steampowered.com/en/)
 - [Steam Deck - Basic Use & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/69E3-14AF-9764-4C28)
 - [Steam Deck - Software Info & Troubleshooting Guide](https://help.steampowered.com/en/faqs/view/7DD4-C618-182E-0E49)
 - [Steam Deck Desktop: FAQ](https://help.steampowered.com/en/faqs/view/671A-4453-E8D2-323C)
@@ -22,13 +22,18 @@
 - [Steam Deck - Windows Resources](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)
 - [Help With Steam Deck](https://help.steampowered.com/en/wizard/HelpWithSteamDeck)
 
-## Steam Community
-- [Steam Deck - Discussions](https://steamcommunity.com/app/1675200/discussions/0/)
+## [Steam Community](https://steamcommunity.com/app/1675200/)
+- [General Discussions](https://steamcommunity.com/app/1675200/discussions/0/)
+- [Bug Reports](https://steamcommunity.com/app/1675200/discussions/1/)
+- [Feature Requests](https://steamcommunity.com/app/1675200/discussions/2/)
+- [Steam Deck Docking Station](https://steamcommunity.com/app/1675200/discussions/3/)
+- [Trading](https://steamcommunity.com/app/1675200/tradingforum/)
+- [Events & Announcements](https://steamcommunity.com/app/1675200/eventcomments/)
 
-## Steamworks
-- [Documentation - Steam Deck FAQ](https://partner.steamgames.com/doc/steamdeck/faq)
+## [Steamworks](https://partner.steamgames.com/)
+- [Steam Deck](https://partner.steamgames.com/doc/steamdeck)
 
-## GitHub
+## [GitHub](https://github.com/ValveSoftware)
 - [SteamOS](https://github.com/ValveSoftware/SteamOS)
 - [Proton](https://github.com/ValveSoftware/Proton)
 - [Steam For Linux](https://github.com/ValveSoftware/steam-for-linux)
