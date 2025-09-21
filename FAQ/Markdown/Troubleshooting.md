@@ -35,10 +35,13 @@
 - Unable to install a game due to grayed out ```Install``` button and ```Available For Windows``` text:
     - Go into the game properties' (Menu Button / Gear > Properties > Compatibility) and enable ```Force the use of a specific Steam Play compatibility tool``` (eg. Proton Experimental)
 - Not all games have Steam Cloud functionality so saves need to be transferred manually between devices (eg. Dark Souls III)
-- Turn off HDR if random colors appear
-- Use a different configuration (settings, Proton version, etc...) - see ProtonDB user reports
 - See if ```Quick Settings``` are properly configured
+    - Turn off HDR if random colors appear
 - See potentially limiting factors by enabling ```Performance Overlay``` in ```Quick Settings```
+- Try different configurations (eg. in game settings, other Proton versions) - see [ProtonDB](https://www.protondb.com/) user reports
+    - Various compatibility layers (eg. ```Proton-GE```) can be easily installed using ```ProtonUp-QT``` from ```Discover``` in ```Desktop Mode```
+        - After installing them, they can be selected within the game properties' (Menu Button / Gear > Properties > Compatibility)
+    - If cutscenes aren't working (only showing SMPTE color bars) try ```Proton-GE```
 
 ## Controls
 
