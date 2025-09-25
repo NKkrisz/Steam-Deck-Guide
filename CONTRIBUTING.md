@@ -1,9 +1,14 @@
 # Contributing
 
-## Where To Contribute
-[GitHub > NKkrisz > Steam-Deck-Guide](https://github.com/NKkrisz/Steam-Deck-Guide)
+## What To Contribute - Ideas, TODO etc...
+[GitHub Projects: GitHub > NKkrisz > Projects > Steam Deck Guide](https://github.com/users/NKkrisz/projects/3)
 
-## Rules & Guidelines
+## Where To Contribute - Repositories
+[Guide Content: GitHub > NKkrisz > Steam-Deck-Guide](https://github.com/NKkrisz/Steam-Deck-Guide)
+
+[Main Website: GitHub > NKkrisz > steamdeck.guide](https://github.com/NKkrisz/steamdeck.guide)
+
+## How To Contribute - Rules & Guidelines
 - Contributions need to be communicated in English
 - The guide is English only for now
     - Non-English sources are fine, just translate them to English when adding them to the guide
@@ -20,7 +25,7 @@
     - For things that need more detailed / longer form text write them into a separate files
     - Try grouping similar things into folders
 
-## Don't know how Git / GitHub works? - 2 Easier Ways To Contribute
+### Don't know how Git / GitHub works? - 2 Easier Ways To Contribute
 
 - ***1. Open an issue in this repository:*** 
     1. **Select Issues Menu**  
