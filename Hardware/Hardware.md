@@ -8,8 +8,7 @@
 
 ## ⚠️ DISCLAIMER - READ FIRST BEFORE MODIFYING ANYTHING
 - **Modifying your device will / may void your warranty!!!**
-- **You can see your Deck's original parts here (Select matching serial number from the backplate):**
-    - https://store.steampowered.com/account/hardwareused
+- **You can see your Steam Deck's original parts [here](https://store.steampowered.com/account/hardwareused) (You need to sign in, then select the matching serial number from the backplate/settings)**
 - **VALVE RECOMMENDS PUTTING THE DEVICE INTO BATTERY STORAGE MODE FOR REPAIRS!!!**
     - [How to turn on battery storage mode](https://www.ifixit.com/Guide/How+to+Enable+Steam+Deck+Battery+Storage+Mode/149962)
         - **MAKE SURE THE BATTERY IS BELOW 80% BEFORE PUTTING IT INTO BATTERY STORAGE MODE, THE LOWER THE BETTER** (though full discharge isn't recommended)
