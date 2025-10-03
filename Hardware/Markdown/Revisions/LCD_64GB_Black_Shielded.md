@@ -36,16 +36,15 @@
     - L - Left
     - R - Right
 
-## How To Support Me (NKkrisz) And This Repository
-- Consider donating by clicking the button below:
+## How To Support The Project
+- Consider donating to NKkrisz's Ko-fi page accessible with the button below:
 
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
 
-- By doing so, I might be able to:
-    - Get a second used / faulty LCD Deck
-    - Upgrade to an OLED Deck which would enable further research
-    - Buy more expensive hardware for testing, modifying or documenting Steam Deck stuff
-- Contribute with new content or fix mistakes!
+- By doing so, NKkrisz might be able to:
+    - Buy more expensive hardware for testing and modifying things
+    - Get a second used or faulty LCD Deck for tinkering purposes
+    - Get an OLED Deck for further documentation
 
 ### Backplate
 [![Backplate Top](../../Images/LCD/Black_Shielded_64GB_2024_January/Compressed/Compressed_NKkrisz_Backplate_T.jpg)](../../Images/LCD/Black_Shielded_64GB_2024_January/NKkrisz_Backplate_T.png)
