@@ -4,19 +4,19 @@
 
 **This project isn't associated with Valve and modifying your device may void your warranty.**
 
-**This repository is for educational purposes and may contain mistakes, you're responsible for your own device.**
+**The guide is made for educational purposes and may contain mistakes, you're responsible for your own device.**
 
 **None of the links are affiliated in any way or are included because of external payment.**
 
 **If you see a mistake or you're the owner of some content mentioned in this repository and want it removed please [contact NKkrisz](https://linktr.ee/nkkrisz).**
 
-## 📜 [Credits And Sources](./Repository/Markdown/Credits.md) | [Contribute](CONTRIBUTING.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Guide)
+## 📜 [Credits And Sources](./Repository/Markdown/Credits.md) | [Contribute](./CONTRIBUTING.md) | [GitHub Repository](https://github.com/NKkrisz/Steam-Deck-Guide)
 
-## [🆘 Start Here! - Frequently Asked Questions (FAQ)](FAQ/FAQ.md)
+## [🆘 Start Here! - Frequently Asked Questions (FAQ)](./FAQ/FAQ.md)
 
-## [🧑‍🔧 Hardware Guides And Information](Hardware/Hardware.md)
+## [🧑‍🔧 Hardware Guides And Information](./Hardware/Hardware.md)
 
-## [🧑‍💻 Software Guides And Information](Software/Software.md)
+## [🧑‍💻 Software Guides And Information](./Software/Software.md)
 
 ## 💵 How To Support The Project
 - Consider donating to NKkrisz's Ko-fi page accessible with the button below:
