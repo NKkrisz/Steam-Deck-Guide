@@ -136,7 +136,7 @@
     - The original model only works with LCD Decks but there is a [remix available for OLEDs here](https://www.printables.com/model/1376881-dual-stage-trigger-mod-oled-version)
 - Similar Feeling To Steam Controller ("click" feedback on full press)
 - Shouldn't interfere with trigger input values
-- [Testing video (W.I.P - Uses modified model)](https://www.youtube.com/watch?v=8woKzJrXp88)
+- [Short test video (W.I.P - Uses modified model)](https://www.youtube.com/shorts/fwQDT2-AOic)
 
 ## Other
 
